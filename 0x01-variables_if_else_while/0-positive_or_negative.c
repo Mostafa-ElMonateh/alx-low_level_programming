@@ -4,8 +4,9 @@
 
 /**
  * main - Entery point
- * Description: Get a random number and print it
- * and if it is positive, negative or ezen zero
+ *
+ * Description: Get a random number and print it and if it is positive, negative or even zero
+ * 
  * Return: 0
  */
 
