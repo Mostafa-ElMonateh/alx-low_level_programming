@@ -2,7 +2,8 @@
 
 /**
  * print_alphabet - Print all alphabets.
- * Description : This function is for printing all alphabets followed by a new line.
+ * Description : This function is for printing all alphabets
+ * followed by a new line.
  * Return: Void.
  */
 void print_alphabet(void)
@@ -15,7 +16,9 @@ void print_alphabet(void)
 	}
 	_putchar('\n');
 }
+
 int main(void)
 {
-print_alphabet();
+	print_alphabet();
+	return (0);
 }
