@@ -17,6 +17,12 @@ void print_alphabet(void)
 	_putchar('\n');
 }
 
+/**
+ * main - Entry point
+ * Description: for excuting the function.
+ * Return: 0;
+ */
+
 int main(void)
 {
 	print_alphabet();
