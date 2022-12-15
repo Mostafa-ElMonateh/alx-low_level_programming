@@ -1,0 +1,1 @@
+- 0-isupper.c has a function that checks for uppercase character.
