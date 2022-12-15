@@ -1,1 +1,2 @@
 - 0-isupper.c has a function that checks for uppercase character.
+- 1-isdigit.c has a function checks for a digit (0 through 9).
