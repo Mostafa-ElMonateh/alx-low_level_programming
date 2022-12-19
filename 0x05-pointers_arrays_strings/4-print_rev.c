@@ -14,10 +14,8 @@ void print_rev(char *s)
 		length++;
 		index++;
 	}
-	index--;
 
-
-	for (index; index >= 0; index--)
+	for (index = index -1; index >= 0; index--)
 	{
 		_putchar(s[index]);
 	}
