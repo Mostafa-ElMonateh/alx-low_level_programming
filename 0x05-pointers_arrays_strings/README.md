@@ -2,3 +2,4 @@
 - void swap_int(int *a, int *b); is a function that swaps the values of two integers.
 - int _strlen(char *s); is a function that returns the length of a string.
 - void _puts(char *str); is a function that prints a string, followed by a new line, to stdout.
+- void print_rev(char *s); is a function that prints a string, in reverse, followed by a new line.
