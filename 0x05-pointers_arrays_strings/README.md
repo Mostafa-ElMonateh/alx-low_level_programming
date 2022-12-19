@@ -3,3 +3,4 @@
 - int _strlen(char *s); is a function that returns the length of a string.
 - void _puts(char *str); is a function that prints a string, followed by a new line, to stdout.
 - void print_rev(char *s); is a function that prints a string, in reverse, followed by a new line.
+- void rev_string(char *s); is a function that reverses a string.
