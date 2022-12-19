@@ -1,24 +1,18 @@
 #include "main.h"
+
 /**
- * print_rev(char *s) - prints a string, in reverse, followed by a new line.
- * @length: length of a string.
- * @index: position of a character in a string.
- * @i: comparing variable.
+ * print_rev - Prints a string in reverse.
+ * @s: The string to be printed.
  */
 void print_rev(char *s)
 {
-	int length, index;
+	int len = 0, index;
 
-	while ((s[index]) != ('\0'))
-	{
-		length++;
-		index++;
-	}
+	while (s[index++])
+		len++;
 
-	for (index = index -1; index >= 0; index--)
-	{
+	for (index = len - 1; index >= 0; index--)
 		_putchar(s[index]);
-	}
 
 	_putchar('\n');
 }
