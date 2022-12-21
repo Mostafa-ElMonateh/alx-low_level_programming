@@ -1,1 +1,2 @@
 - 0-strcat.c has a function that concatenates two strings.
+- 1-strncat.c has a function that concatenates two strings.
