@@ -49,5 +49,5 @@ What you should learn from this project:
   - Prototype: char *_strcpy(char *dest, char *src);
   - Return value: the pointer to dest
   
-  ## Author
-  [Mostafa ElMonateh](https://github.com/Mostafa-ElMonateh)
+## Author
+[Mostafa ElMonateh](https://github.com/Mostafa-ElMonateh)
