@@ -48,5 +48,5 @@ What you should learn from this project:
   - You are not allowed to use switch
   - You are not allowed to use any ternary operation
   
-  ## **Author**
-  **[Mostafa ElMonateh](https://github.com/Mostafa-ElMonateh)**
+## **Author**
+**[Mostafa ElMonateh](https://github.com/Mostafa-ElMonateh)**
