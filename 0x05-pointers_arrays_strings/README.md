@@ -1,6 +1,6 @@
-# 0x05-pointers_arrays_strings
+# **0x05-pointers_arrays_strings**
 
-## Description
+## **Description**
 
 What you should learn from this project:
 - What are pointers and how to use them
@@ -9,7 +9,7 @@ What you should learn from this project:
 - How to use strings and how to manipulate them
 - Scope of variables
 
-## Projects
+## **Projects**
 
 ### [0-reset_to_98.c](https://github.com/Mostafa-ElMonateh/alx-low_level_programming/blob/main/0x05-pointers_arrays_strings/0-reset_to_98.c)
 - Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
@@ -49,5 +49,5 @@ What you should learn from this project:
   - Prototype: char *_strcpy(char *dest, char *src);
   - Return value: the pointer to dest
   
-## Author
+## **Author**
 [Mostafa ElMonateh](https://github.com/Mostafa-ElMonateh)
