@@ -50,4 +50,4 @@ What you should learn from this project:
   - Return value: the pointer to dest
   
 ## **Author**
-[Mostafa ElMonateh](https://github.com/Mostafa-ElMonateh)
+**[Mostafa ElMonateh](https://github.com/Mostafa-ElMonateh)**
