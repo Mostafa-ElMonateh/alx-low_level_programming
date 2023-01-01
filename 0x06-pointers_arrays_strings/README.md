@@ -4,6 +4,7 @@
 What you should learn from this project:
 - Everything from **[0x05-pointers_arrays_strings](https://github.com/Mostafa-ElMonateh/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings)**
 
+## **Projects**
 ### **[0-strcat.c](https://github.com/Mostafa-ElMonateh/alx-low_level_programming/blob/main/0x06-pointers_arrays_strings/0-strcat.c)**
 - Write a function that concatenates two strings.
   - Prototype: char *_strcat(char *dest, char *src);
