@@ -1,6 +1,6 @@
-# ALX software engineering program : Low-level Programming section
+# **ALX software engineering program : Low-level Programming section**
 
-## Description
+## **Description**
 ALX's curriculum for low-level programming. These projects are meant to help us learn basic concepts of programming in order to have the capacity to learn any other language quickly.
 
 ### [0x00-hello_world](https://github.com/Mostafa-ElMonateh/alx-low_level_programming/tree/main/0x00-hello_world)
@@ -17,5 +17,5 @@ ALX's curriculum for low-level programming. These projects are meant to help us 
 
 ### [0x06-pointers_arrays_strings](https://github.com/Mostafa-ElMonateh/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings)
 
-## Author
+## **Author**
 [Mostafa ElMonateh](https://github.com/Mostafa-ElMonateh)
