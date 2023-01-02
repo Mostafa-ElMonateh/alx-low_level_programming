@@ -1,9 +1,8 @@
-#include <main.h>
-#include "holberton.h"
+#include "main.h"
 
 /**
- * _strchr - Gets the length of a prefix substring
- * @s: pointer that searchd in
+ * _strchr - gets the length
+ * @s: pointer
  * @c: input character
  * Return: Always 0 (Success)
  */
