@@ -1,7 +1,8 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
- * _strchr - gets the length
+ * _strchr - get the length
  * @s: pointer
  * @c: input character
  * Return: Always 0 (Success)
