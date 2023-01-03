@@ -17,5 +17,7 @@ ALX's curriculum for low-level programming. These projects are meant to help us 
 
 ### [0x06-pointers_arrays_strings](https://github.com/Mostafa-ElMonateh/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings)
 
+### [0x07-pointers_arrays_strings](https://github.com/Mostafa-ElMonateh/alx-low_level_programming/tree/main/0x07-pointers_arrays_strings)
+
 ## **Author**
 [Mostafa ElMonateh](https://github.com/Mostafa-ElMonateh)
