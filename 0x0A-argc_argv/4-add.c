@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
+
 /**
  * main - Entry Point
  * @argc: arguments
@@ -16,7 +17,7 @@ int main(int argc, char *argv[])
 
 	for (i = 1; i < argc; i++)
 	{
-		if (!atoi(argv[i]))
+		if (!(atoi(argv[i])))
 		{
 			printf("%s\n", "Error");
 			return (1);
