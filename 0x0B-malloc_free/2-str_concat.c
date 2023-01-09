@@ -10,11 +10,11 @@
 
 char *str_concat(char *s1, char *s2)
 {
-    if (s1 == NULL || s2 == NULL)
-        s1 = s2 = "";
-
     int index1, index2, i;
     char *arr;
+
+    if (s1 == NULL || s2 == NULL)
+        s1 = s2 = "";
 
     while (s1[index1] != '\0')
     {
