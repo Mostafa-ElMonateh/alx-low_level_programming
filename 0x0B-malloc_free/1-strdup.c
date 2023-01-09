@@ -19,6 +19,7 @@ char *_strdup(char *str)
     {
         index++;
     }
+    index++;
 
     arr = malloc(index);
 
