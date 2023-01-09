@@ -9,21 +9,18 @@
 
 char *_strdup(char *str)
 {
+    int index, i;
+    char *arr;
+
     if (str == NULL)
         return (NULL);
-
-    int index; //counter
 
     while (str[index] != '\0')
     {
         index++;
     }
 
-    char *arr;
-
     arr = malloc(index);
-
-    int i; //counter
 
     for (i = 0; i < index; i++)
     {
