@@ -20,11 +20,13 @@ char *str_concat(char *s1, char *s2)
     {
         index1++;
     }
+    index1++;
 
     while (s2[index2] != '\0')
     {
         index2++;
     }
+    index2++;
 
     arr = malloc((index1 + index2 + 1) * sizeof(char));
 
